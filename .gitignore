@@ -319,7 +319,7 @@ fabric.properties
 .DS_Store
 uploads/
 
-# config
+# aconfig
 config.json
 
 # docker
